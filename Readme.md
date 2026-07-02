@@ -1,6 +1,6 @@
 # CascadeReason 🧠⛓️💥
 
-> Reasoning through supply chain cascading failures with fine-tuned LLMs.
+> Reasoning through supply chain cascading failures.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![HuggingFace Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow)](https://huggingface.co/)
